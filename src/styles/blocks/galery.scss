@@ -1,9 +1,0 @@
-.galery {
-  &__images:not(:last-child) {
-    margin-bottom: 40px;
-
-    @include tablet {
-      margin-bottom: 64px;
-    }
-  }
-}
